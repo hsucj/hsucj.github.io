@@ -11,8 +11,16 @@
 		vertical-align: baseline;
 	}
 
+	.text-red{
+		color:#c02942;
+	}
+
+	.text-green {
+		color:#448733;
+	}
+
 	.descr {
-		font-size: .8em;
+		font-size: .95em;
 	}
 
 	.name-title h1 {
